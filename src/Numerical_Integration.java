@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/*
+ * Richard Colorusso
+ */
 public class Numerical_Integration {
 
 	//The following method will solve using the midpoint rule
