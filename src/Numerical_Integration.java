@@ -13,7 +13,7 @@ public class Numerical_Integration {
 		}
 		return temp*dx;
 	}
-	//The following method will solve using the trapezoidal rule
+	//The following method will solve using the trapezoidal rule.
 	public static double trapezoidal(double a, double b, double c, double d, double e, double f, double n, double star, double end, double dx) {
 		double trapsum = 0;
 		double traptemp = 0;
